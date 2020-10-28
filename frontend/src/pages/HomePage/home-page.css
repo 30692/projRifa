@@ -1,0 +1,30 @@
+/* * {
+  background: #f2f2f2;
+} */
+
+#carousel {
+  font-family: "Nunito", sans-serif;
+  display: flex;
+  margin: 0 auto;
+  margin-top: 30px;
+  height: 700px;
+  max-width: 1500px;
+
+  max-height: 100%;
+  overflow: hidden;
+}
+
+#image-slide {
+  height: 100%;
+  width: 100%;
+  top: 0.5;
+}
+
+#paragraph {
+  font-size: 40px;
+  margin: 0 auto;
+  margin-top: 25px;
+  max-width: 1500px;
+
+  align-items: center;
+}

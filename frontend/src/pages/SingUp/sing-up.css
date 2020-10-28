@@ -1,0 +1,37 @@
+#sing-up {
+  font-family: "Nunito", sans-serif;
+
+  margin: 0 auto;
+  margin-top: 30px;
+  max-width: 700px;
+
+  font-size: 20px;
+}
+
+#button {
+  margin: 0 auto;
+  align-content: center;
+  align-items: center;
+}
+
+#icon {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  margin-top: 10px;
+  float: right;
+
+  margin-right: 10px;
+}
+
+#title-back {
+  float: right;
+  padding-top: 10px;
+  color: black;
+}
+
+.logo2 {
+  width: 280px !important;
+  border-radius: 100px !important;
+  
+}

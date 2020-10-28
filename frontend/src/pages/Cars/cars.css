@@ -1,0 +1,14 @@
+#Jumbotron {
+  max-width: 1700px;
+  margin: 0 auto;
+}
+
+#div-button {
+  position: relative;
+}
+
+#button {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
